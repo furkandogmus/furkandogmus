@@ -12,7 +12,7 @@
 name: Furkan
 role: DevOps Engineer
 company: BTS Group
-location: Türkiye
+location: Ankara(Hybrid)
 current_focus: Sybelle Virtualization Technology
 specializations:
   - System Architecture Design
