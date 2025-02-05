@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 Merhaba, Ben Furkan!</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%40+BTS+Group;Sybelle+Virtualization+Expert;System+%26+Network+Administrator;Infrastructure+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%40+BTS+Group" alt="Typing SVG" />
 </div>
 
 <br/>
