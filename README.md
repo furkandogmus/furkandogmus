@@ -64,12 +64,4 @@ technical_environment:
   <img src="https://github-readme-stats.vercel.app/api?username=furkandogmus&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
-### 📈 Current Focus: Sybelle Virtualization Technology
-- Leading development and implementation of Sybelle virtualization platform
-- Architecting advanced network clustering solutions
-- Optimizing storage infrastructure and management
-- Implementing robust monitoring and observability practices
-- Developing automation solutions for infrastructure management
-- Building scalable and resilient system architectures
-
 🔧 **Core Competencies**: System Architecture, Network Management, Storage Solutions, Linux Administration, Infrastructure Automation, Virtualization Technologies
