@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,'DejaVu Sans Mono',Menlo,monospace" width="902px" height="530px" font-size="16px">
+<style>.key{fill:#ffa657}.value{fill:#a5d6ff}.cc{fill:#616e7f}text,tspan{white-space:pre}</style>
+<rect width="902px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9">
+<tspan x="15" y="30">.#@@+======++++++++#%@@#</tspan>
+<tspan x="15" y="50">:@@%=======++++====+*%@%</tspan>
+<tspan x="15" y="70">:%%#==========+======*@%.</tspan>
+<tspan x="15" y="90">-%%#====++++++++***+=+%@.</tspan>
+<tspan x="15" y="110">:%%*=+%%%@#*+*%%@@@@+=%@.</tspan>
+<tspan x="15" y="130">.%@+=%@@@@%***#@@@@%#-%%</tspan>
+<tspan x="15" y="150"> %@==#@@@@%*++#@@@@#+-#%</tspan>
+<tspan x="15" y="170"> %%==*%%@%%*=+%%#@#%*-**</tspan>
+<tspan x="15" y="190"> +%==#*%%%#*==*#%%#**-#*-</tspan>
+<tspan x="15" y="210">.+%+=**#%#*+===*****+:%**</tspan>
+<tspan x="15" y="230">+*%*-++**++====+++++=:*+*</tspan>
+<tspan x="15" y="250">=+**-=+++++====+++===-**+</tspan>
+<tspan x="15" y="270">:+##====+++====+*++===#*-</tspan>
+<tspan x="15" y="290"> +##+==++**#**%***+==+#*.</tspan>
+<tspan x="15" y="310"> -*#%=++***%%%%#***+=**-</tspan>
+<tspan x="15" y="330">  =*@=++##%@@@@@%%*+*%+</tspan>
+<tspan x="15" y="350">   +@#**%@@@%%@@@@**#@:</tspan>
+<tspan x="15" y="370">   :%%%*%%#*****#@*%@@:</tspan>
+<tspan x="15" y="390">    *@@%%#*#%%#**%#@@%.</tspan>
+<tspan x="15" y="410">    +@@@%#*#@@%**#@@@#</tspan>
+<tspan x="15" y="430">    :@@@@%**%%#**%@@@=</tspan>
+<tspan x="15" y="450">    .%@@@@@%@%%%@@@@@:</tspan>
+<tspan x="15" y="470">     +@@@@@@@@@@@@@@+</tspan>
+<tspan x="15" y="490">     -@@@@@@@@@@@@@@-</tspan>
+<tspan x="15" y="510">    ==%@@@@@@@@@@@@%**.</tspan>
+</text>
+<text x="300" y="30" fill="#c9d1d9">
+<tspan x="300" y="30">furkan@dogmus</tspan> -—————————————————————————————————————————————-
+<tspan x="300" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">macOS, Linux (RHEL)</tspan>
+<tspan x="300" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">on GitHub 6 years, 2 months</tspan>
+<tspan x="300" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Hacettepe University</tspan>
+<tspan x="300" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">DevOps Engineer</tspan>
+<tspan x="300" y="130" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">zsh, bash</tspan>
+<tspan x="300" y="150" class="cc">. </tspan>
+<tspan x="300" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Go, Bash, Python</tspan>
+<tspan x="300" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Infra</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">YAML, HCL, Dockerfile</tspan>
+<tspan x="300" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Turkish, English</tspan>
+<tspan x="300" y="230" class="cc">. </tspan>
+<tspan x="300" y="250" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Kubernetes (CKA / CKAD / CKS)</tspan>
+<tspan x="300" y="270" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Platform</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Kubernetes, IaC, GitOps</tspan>
+<tspan x="300" y="290" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Observability</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Prometheus, Grafana, ELK</tspan>
+<tspan x="300" y="310" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Systems</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Linux, networking, storage</tspan>
+<tspan x="300" y="350">- Contact</tspan> -—————————————————————————————————————————————————-
+<tspan x="300" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">furkandogmus9183@gmail.com</tspan>
+<tspan x="300" y="390" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">furkandogmus</tspan>
+<tspan x="300" y="410" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Ankara, Türkiye</tspan>
+<tspan x="300" y="450">- GitHub Stats</tspan> -————————————————————————————————————————————-
+<tspan x="300" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">16 public  |  Stars: 2</tspan>
+<tspan x="300" y="490" class="cc">. </tspan><tspan class="key">Contributions</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">192 (last year)  |  Followers: 32</tspan>
+</text>
+</svg>
